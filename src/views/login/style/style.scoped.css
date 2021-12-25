@@ -1,0 +1,135 @@
+@font-face {
+	src: url("../../../components/asset/Metropolis Font family/Metropolis-Regular.otf");
+	font-family: Metropolis-Regular;
+}
+
+@font-face {
+	src: url("../../../components/asset/Metropolis Font family/Metropolis-Bold.otf");
+	font-family: Metropolis-Bold;
+}
+
+.text-reguler {
+    font-family: Metropolis-Regular;
+}
+
+.text-bold {
+    font-family: Metropolis-Bold;
+}
+
+a:hover {
+    text-decoration: none;
+    color: unset;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    margin: 0;
+}
+
+.btn-cust-off {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 48px;
+    background: #ffffff;
+    border: 1px solid #9b9b9b;
+    border-radius: 4px 0px 0px 4px;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #9b9b9b;
+    cursor: pointer;
+}
+
+.btn-cust-on {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 48px;
+    background: #db3022;
+    border: 1px solid #db3022;
+    border-radius: 4px 0px 0px 4px;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.btn-seller-on {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 48px;
+    background: #db3022;
+    border: 1px solid #db3022;
+    border-radius: 0px 4px 4px 0px;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.btn-seller-off {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 48px;
+    background: #ffffff;
+    border: 1px solid #9b9b9b;
+    border-radius: 0px 4px 4px 0px;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #9b9b9b;
+    cursor: pointer;
+}
+
+.form-input {
+    height: 48px;
+    padding: 0px 20px;
+    border: 1px solid #9b9b9b;
+    box-sizing: border-box;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #9b9b9b;
+}
+
+.text-forgot {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    color: #1a8fdd;
+    text-decoration: none;
+}
+
+.text-submit {
+    height: 48px;
+    border-radius: 25px;
+    background: #1a8fdd;
+    border: 0;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.text-reg {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    color: #db3022;
+    text-decoration: none;
+}

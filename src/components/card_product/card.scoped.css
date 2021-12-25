@@ -1,0 +1,132 @@
+@font-face {
+	src: url("../asset/Metropolis Font family/Metropolis-Regular.otf");
+	font-family: Metropolis-Regular;
+}
+
+@font-face {
+	src: url("../asset/Metropolis Font family/Metropolis-Bold.otf");
+	font-family: Metropolis-Bold;
+}
+
+.text-reguler {
+    font-family: Metropolis-Regular;
+}
+
+.text-bold {
+    font-family: Metropolis-Bold;
+}
+
+a:hover {
+    text-decoration: none;
+    color: unset;
+}
+
+a {
+    text-decoration: none;
+    color: #8e8e8e;
+}
+
+span {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+}
+
+main {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.search-box {
+    height: 30px;
+    width: 80%;
+    padding: 0px 20px;
+    border: 1px solid #8e8e8e;
+    border-radius: 23px;
+    background-image: url(../asset/Search.png);
+    background-repeat: no-repeat;
+    background-position-x: 97%;
+    background-position-y: center;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #9b9b9b;
+}
+
+.sort {
+    height: 30px;
+    border: 1px solid #8e8e93;
+    margin: 0px 10px;
+    border-radius: 12px;
+    background: #ffffff;
+}
+
+.btn-login {
+    border: 0;
+    background: #1a8fdd;
+    border-radius: 25px;
+    width: 120px;
+    height: 36px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #ffffff;
+}
+
+.btn-signup {
+    background: #ffffff;
+    border-radius: 25px;
+    border: 1px solid #9b9b9b;
+    width: 120px;
+    height: 36px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #9b9b9b;
+    margin-left: 5px;
+}
+
+.btn-bottom {
+    background: #1a8fdd;
+    border-radius: 25px;
+    border: 1px solid #1a8fdd;
+    width: 150px;
+    height: 36px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #ffffff;
+    margin-left: 5px;
+}
+
+.btn-bottom-delete {
+    background: #dd1a1a;
+    border-radius: 25px;
+    border: 1px solid #dd1a1a;
+    width: 150px;
+    height: 36px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #ffffff;
+    margin-left: 5px;
+}
+
+.nav-icon {
+    width: 5vw;
+    height: 5vw;
+}
+
+.nav-title {
+    width: 50px;
+    font-size: 10px;
+}
+
+.stock {
+    color: #1a8fdd;
+}

@@ -1,0 +1,122 @@
+@font-face {
+	src: url("../../../components/asset/Metropolis Font family/Metropolis-Regular.otf");
+	font-family: Metropolis-Regular;
+}
+
+@font-face {
+	src: url("../../../components/asset/Metropolis Font family/Metropolis-Bold.otf");
+	font-family: Metropolis-Bold;
+}
+
+.text-reguler {
+    font-family: Metropolis-Regular;
+}
+
+.text-bold {
+    font-family: Metropolis-Bold;
+}
+
+.profile-page {
+    background-color: #F5F5F5;
+    margin-top: 40px;
+    height: 95vh;
+}
+
+.profile-page-p {
+    background-color: #F5F5F5;
+    min-height: 100vh;
+}
+
+.new-bg {
+    background-color: #F5F5F5;
+    height: 2rem!important;
+}
+
+a:hover {
+    text-decoration: none;
+    color: unset;
+}
+
+a {
+    text-decoration: none;
+    color: #8e8e8e;
+}
+
+span {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+}
+
+
+
+.product-box-p {
+    height: 40px;
+    width: 60%;
+    border: 1px solid #8e8e8e;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #9b9b9b;
+}
+
+.btn-login-p {
+    border: 0;
+    background: #db3022;
+    border-radius: 25px;
+    width: 22%;
+    height: 36px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #ffffff;
+}
+
+.btn-signup-p {
+    background: #ffffff;
+    border-radius: 25px;
+    border: 1px solid #222222;
+    width: 22%;
+    height: 36px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #222222;
+}
+
+.nav-icon {
+    width: 5vw;
+    height: 5vw;
+}
+
+.nav-title {
+    width: 50px;
+    font-size: 10px;
+}
+
+.profile-img {
+    width: 5%;
+}
+
+.desc-product {
+    font-size: 12px;
+    color: #9b9b9b;
+}
+
+.desc-box {
+    height: 100px;
+    width: 50%;
+    border: 1px solid #8e8e8e;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #9b9b9b;
+}
