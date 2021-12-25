@@ -60,6 +60,13 @@ REACT_APP_API = http://localhost:9000
    ```
 
 
+## Demo Account
+Anda dapat melakukan registrasi untuk menjalankan demo aplikasi ini, atau dapat juga menggunakan akun dibawah ini
+   ```sh
+   username = usercoba02
+   password = admin1234
+   ```
+
 ## Backend Repository
 Backend API : Items App - Backend [here](https://github.com/wsaefulloh/app-items)
 
