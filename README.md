@@ -1,4 +1,4 @@
-<h1 align="center">Website Rekap Item</h1>
+<h1 align="center">Website Rekap Barang</h1>
 <p align="center">
     <a href="https://newitemsapps.netlify.app/" target="blank">View Demo</a>
   · <a href="https://github.com/wsaefulloh/front-item/issues">Report Bug</a>
