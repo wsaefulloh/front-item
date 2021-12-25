@@ -1,65 +1,9 @@
-<h1 align="center">Blanja Website</h1>
-<p align="center"><img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1627004541/Front%20End/logo_blanja_jtyc2a.svg" alt="Logo.jpg" /></p>
+<h1 align="center">Website Rekap Item</h1>
 <p align="center">
-    <a href="https://blanja-site.netlify.app/" target="blank">View Demo</a>
-  · <a href="https://github.com/wsaefulloh/front-blanja/issues">Report Bug</a>
-  · <a href="https://github.com/wsaefulloh/front-blanja/pulls">Request Feature</a>
+    <a href="https://newitemsapps.netlify.app/" target="blank">View Demo</a>
+  · <a href="https://github.com/wsaefulloh/front-item/issues">Report Bug</a>
+  · <a href="https://github.com/wsaefulloh/front-item/pulls">Request Feature</a>
 </p>
-  
-  <div align="center">
-    <table>
-  <tr>
-    <th>
-      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1633550530/SS%20Blanja%20Github/11_u56hcp.png" width="400px" alt="Arkademylogo.svg" />
-        <p align="center">Login Page</p>
-    </th>
-    <th>
-      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1633550528/SS%20Blanja%20Github/10_kwyu4u.png" width="400px" alt="Arkademylogo.svg" />
-        <p align="center">Register Page</p>
-    </th>
-  </tr>
- <tr>
-    <th>
-      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1633550540/SS%20Blanja%20Github/9_pviqgg.png" width="400px" alt="Arkademylogo.svg" />
-        <p align="center">Home Page</p>
-    </th>
-    <th>
-      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1633550534/SS%20Blanja%20Github/8_kozpdi.png" width="400px" alt="Arkademylogo.svg" />
-        <p align="center">Home Page</p>
-    </th>
-  </tr>
-  <tr>
-   <th>
-      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1633550536/SS%20Blanja%20Github/1_ekquxl.png" width="400px" alt="Arkademylogo.svg" />
-       <p align="center">Result Page</p>
-    </th>
-    <th>
-      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1633550526/SS%20Blanja%20Github/7_frvhy5.png" width="400px" alt="Arkademylogo.svg" />
-        <p align="center">Detail Product</p>
-    </th>
-  </tr>
-  <tr>
-   <th>
-      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1633550524/SS%20Blanja%20Github/2_yiswtq.png" width="400px" alt="Arkademylogo.svg" />
-       <p align="center">Bags Page</p>
-    </th>
-    <th>
-      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1633550529/SS%20Blanja%20Github/6_cbgvwo.png" width="400px" alt="Arkademylogo.svg" />
-        <p align="center">Update Page</p>
-    </th>
-  </tr>
-  <tr>
-   <th>
-      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1633550519/SS%20Blanja%20Github/5_d0zhg6.png" width="400px" alt="Arkademylogo.svg" />
-       <p align="center">Add Product Page</p>
-    </th>
-    <th>
-      <img src="https://res.cloudinary.com/dyli6i0pw/image/upload/v1633550519/SS%20Blanja%20Github/4_aaglvh.png" width="400px" alt="Arkademylogo.svg" />
-        <p align="center">Edit Profile Page</p>
-    </th>
-  </tr>
-</table>
-  </div>
   
 
 ## Built With
@@ -75,7 +19,7 @@ It is an E-Commerce application that makes it easy for us to make online buying 
 
 ## Feature
 - Authentication users with JWT
-- CRUD Product
+- CRUD
 
 
 ## Environmental Variables
@@ -88,7 +32,7 @@ REACT_APP_API = http://localhost:9000
 1. Clone the repository
 
    ```bash
-    https://github.com/wsaefulloh/front-blanja
+    https://github.com/wsaefulloh/front-item
     ```
 
 2. Install dependencies
@@ -117,7 +61,7 @@ REACT_APP_API = http://localhost:9000
 
 
 ## Backend Repository
-Backend API : Blanja - Backend [here](https://github.com/wsaefulloh/back-blanja)
+Backend API : Items App - Backend [here](https://github.com/wsaefulloh/app-items)
 
 
 ## License
